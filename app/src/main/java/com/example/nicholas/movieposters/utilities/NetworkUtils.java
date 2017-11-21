@@ -18,8 +18,7 @@ public class NetworkUtils {
     private static final String TAG = NetworkUtils.class.getSimpleName();
 
 
-    private static final String STATIC_MOVIE_URL =
-            "https://api.themoviedb.org/3/movie/550?api_key=";
+    private static final String STATIC_MOVIE_URL = "https://api.themoviedb.org/3/movie/550?api_key=";
 
     private static final String MOVIE_BASE_URL = STATIC_MOVIE_URL;
 
